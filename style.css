@@ -130,3 +130,9 @@ header {
   align-items: center;
   margin-top: 7rem;
 }
+
+.section-one-img {
+  background: url(/Images/gesphotoss-1i9K55ni5Dk-unsplash.jpg);
+  background-position: top;
+  background-size: cover;
+}
