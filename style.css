@@ -121,3 +121,12 @@ header {
 }
 
 /* Header ends */
+
+/* Section one Starts */
+.section-one {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 7rem;
+}
