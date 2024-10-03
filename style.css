@@ -138,3 +138,12 @@ header {
 }
 
 /* Section one ends */
+
+/* Products start */
+.products {
+  margin-top: 10rem;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+}
