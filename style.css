@@ -262,3 +262,17 @@ header {
 }
 
 /* Customer review ends */
+
+/* Footer section starts */
+footer {
+  background: #1f1e1e;
+  margin-top: 10rem;
+  color: #fff;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100rem;
+  font-family: var(--primary-font);
+}
+
+/* Footer section ends */
