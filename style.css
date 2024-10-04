@@ -233,7 +233,7 @@ header {
   font-family: var(--primary-font);
 }
 
-.customer.customer-img img {
+.customer .customer-img .img {
   width: 200px;
   height: 200px;
   border-radius: 100%;
@@ -243,15 +243,15 @@ header {
   margin-bottom: 20px;
 }
 
-.customer .img-one {
+.customer-img .img-one {
   background: url(Images/yogendra-singh-uWs_N5Dlyiw-unsplash.jpg);
 }
 
-.customer .img-two {
+.customer-img .img-two {
   background: url(Images/joshua-rondeau-xazIYnxpS2Q-unsplash.jpg);
 }
 
-.customer .img-three {
+.customer-img .img-three {
   background: url(Images/milan-popovic-kOnmHdLJTNI-unsplash.jpg);
 }
 
