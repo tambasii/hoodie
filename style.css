@@ -224,6 +224,12 @@ header {
   margin-top: 10rem;
 }
 
+.customer-description {
+  font-family: var(--main-font);
+  font-size: 24px;
+  color: black;
+}
+
 .customer-reviews .customer-description {
   font-size: 12px;
   margin-top: 20px;
